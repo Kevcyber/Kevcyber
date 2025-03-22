@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @Kevcyber
-- 👀 I’m interested in anything cybersecurity
-- 🌱 I’m currently learning Networks and Cybersecurity @UMGC
-- 💞️ I’m looking to collaborate on cybersecurity projects
-- 📫 How to reach me: email me (hope.klomegah@gmail.com)
-- 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: I love soccer, and I love my solitude (my alone time)
+<h1>Hi, I'm Kevin! </h1>
 
-<!---
-Kevcyber/Kevcyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+. [ FortiGen Strong Password Generator] (https://replit.com/@Elon199/FortiGen-Strong-Password-Generator)
+
+
+. [Password Strength Checker] (https://replit.com/@Elon199/FortiGen-Password-Checker)
+
+
+
+<h3>📃 Certifications</h3>
+
+https://www.credly.com/users/kevin-klomegah
+
+. Security + 
+
+. Google Cybersecurity Certificate
+
+
+<h2> 🤳 Connect with me:</h2
+
+[linkedin]: https://linkedin.com/in/kevin-klomegah
+
+<!--
+
